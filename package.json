@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.1",
+    "@heroicons/react": "^2.0.11",
+    "firebase": "^9.9.4",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
